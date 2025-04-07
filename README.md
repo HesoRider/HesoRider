@@ -14,7 +14,7 @@ unity1weekにもよく参加してます。
 「ワーストワーカー」 第10回PLiCyゲームコンテスト 準敢闘賞<br>
 ## 各種リンク
 ### 作ったゲーム
-- [ふりーむ](https://www.freem.ne.jp/brand/12570)
+- ![ふりーむ](https://www.freem.ne.jp/brand/12570)
 - [unityroom](https://unityroom.com/users/hesoriderunity4649)
 - [PLiCy](https://plicy.net/User/82754)
 ### SNS
